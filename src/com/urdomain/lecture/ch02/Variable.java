@@ -45,7 +45,8 @@ public class Variable {
 //		실수형은 0.0
 //		문자형은 '' 또는 ""
 
-		boolean defaultNy = false;
+		boolean defaultNy = false; //true
+		boolean delNy = false;	//true
 		byte aa = 0;
 		short bb = 0;
 		int cc = 0;
@@ -71,6 +72,7 @@ public class Variable {
 		
 		System.out.println("한칸들여쓰기");
 		System.out.println("\t한칸들여쓰기");
+		System.out.println("\t\t한칸들여쓰기");
 		
 		System.out.println("한줄바꿈");
 		System.out.println("\n한줄바꿈");
