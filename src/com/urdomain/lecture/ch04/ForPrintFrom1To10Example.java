@@ -1,5 +1,7 @@
 package com.urdomain.lecture.ch04;
 
+import java.util.Random;
+
 public class ForPrintFrom1To10Example {
 
 	public static void main(String[] args) {
@@ -47,18 +49,17 @@ public class ForPrintFrom1To10Example {
 //			}
 //			
 //		}
-		int sum = 1;
 		
-		for (int i=2; i<=9; i++) {
+		Random ran = new Random();
+		
+		
+		
+		for (int i=1; i<=45; i++) {
 			
-			for(int j=1; j<=9; j++) {
-				System.out.println(i + "*" + j + "=" + i*j);
-				sum += i;
-			}
-				
-		
+			
+			
 		}
-			System.out.println(sum);
+		
 		
 		
 		
