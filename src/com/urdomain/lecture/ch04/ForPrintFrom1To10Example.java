@@ -41,24 +41,17 @@ public class ForPrintFrom1To10Example {
 //			}
 //	
 //		}
-	
-//		for (int i=1; i<=9; i++) {
-//				
-//			for(int j=1; j<=9; j++) {
-//				System.out.println(i + "x" + j + " = " + i*j);
-//			}
-//			
-//		}
 		
-		Random ran = new Random();
-		
-		
-		
-		for (int i=1; i<=45; i++) {
-			
-			
+		for (int i=1; i<=9; i++) {
+				
+			for(int j=2; j<=9; j++) {
+				System.out.println(i + "x" + j + " = " + i*j);
+				
+			}
 			
 		}
+		
+	
 		
 		
 		
