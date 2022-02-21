@@ -1,4 +1,4 @@
-package com.urdomain.lecture.Function;
+package com.urdomain.lecture.exc;
 
 import java.util.Date;
 
