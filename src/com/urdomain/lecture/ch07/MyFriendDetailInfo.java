@@ -4,8 +4,8 @@ public class MyFriendDetailInfo {
 	//필드
 	
 	
-	private String Name = "모모땡";
-	private int age = 25;
+	 String Name = "모모땡";
+	 int age = 25;
 	
 	//생성자
 	
